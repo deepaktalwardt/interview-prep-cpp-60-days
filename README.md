@@ -13,5 +13,5 @@ __Difficulty Levels solved__
  __Total:__ 2
 
  ## Day 1
- :white_circle: [two-number-sum](AlgoExpert/two-number-sum.cpp). _Hint: There are two ways to do this, can you find both?_
+ :white_circle: [two-number-sum](AlgoExpert/two-number-sum.cpp). _Hint: There are two ways to do this, can you find both?_  
  :white_circle: [is-valid-subsequence](AlgoExpert/is-valid-subsequence.cpp). _Hint: When should you terminate iteration over the arrays?_
