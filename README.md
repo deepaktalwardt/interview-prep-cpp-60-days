@@ -3,14 +3,14 @@ Interview preparation guide in C++ in 60 days. Around 2 to 3 questions per day f
 
 __Difficulty Levels solved__
  
-:white_circle: Easy: 3  
+:white_circle: Easy: 4  
 :large_blue_circle: Medium: 3  
 :red_circle: Hard: 0  
 :black_circle: Very Hard: 0  
 
 :star: Good to review
 
-__Total:__ 6
+__Total:__ 7
 
 ## Day 1
 ### AlgoExpert
@@ -29,3 +29,7 @@ __Total:__ 6
 
 ### LeetCode
 :white_circle: [53-maximum-subarray](LeetCode/53-maximum-subarray.cpp) _Hint: How can you choose whether or not to include the current value in the max subarray? Make sure to keep track of the best seen so far._
+
+## Day 3
+### AlgoExpert
+:white_circle: [palindrome-check](AlgoExpert/palindrome-check.cpp) _Hint: Use two pointers._
