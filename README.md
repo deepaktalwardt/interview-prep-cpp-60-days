@@ -3,14 +3,14 @@ Interview preparation guide in C++ in 60 days. Around 2 to 3 questions per day f
 
 __Difficulty Levels solved__
  
-:white_circle: Easy: 4  
+:white_circle: Easy: 5  
 :large_blue_circle: Medium: 3  
 :red_circle: Hard: 0  
 :black_circle: Very Hard: 0  
 
 :star: Good to review
 
-__Total:__ 7
+__Total:__ 8
 
 ## Day 1
 ### AlgoExpert
@@ -33,3 +33,5 @@ __Total:__ 7
 ## Day 3
 ### AlgoExpert
 7. :white_circle: [palindrome-check](AlgoExpert/palindrome-check.cpp) _Hint: Use two pointers._
+
+8. :white_circle: [caesar-cipher-encryptor](AlgoExpert/caesar-cipher-encryptor.cpp) _Hint: Try some wrap-around examples._
